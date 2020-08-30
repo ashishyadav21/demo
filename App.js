@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
-import Header from "./components/header"
+import Header from "./components/Header"
 import StartGameScreen from "./screens/StartGameScreen"
 
 export default function App() {
@@ -17,5 +17,4 @@ const styles = StyleSheet.create({
   screen : {
     flex : 1
   },
-  
 });
