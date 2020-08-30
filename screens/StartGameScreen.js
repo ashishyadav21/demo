@@ -47,8 +47,9 @@ inputContainer :{
   backgroundColor : 'white',
   padding : 20,
   borderRadius : 10
-
-
+},
+check :{
+    
 }
 })
 
