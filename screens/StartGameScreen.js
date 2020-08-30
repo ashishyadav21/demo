@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 15,
   },
   inputContainer: {
-    width: 300,
+    width: 400,
     maxWidth: "80%",
     alignItems: "center",
   },
